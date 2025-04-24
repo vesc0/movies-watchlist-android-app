@@ -37,7 +37,7 @@ An Android application built with Java that allows users to search, browse, and 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/android-movies-watchlist
+git clone https://github.com/vesc0/android-movies-watchlist
 ```
 
 2. **Open in Android Studio:**
